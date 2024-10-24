@@ -13,6 +13,6 @@ int main()
         {ans++;}
    }
 cout << ans ;
-
+return 1;
 }
 
